@@ -1,7 +1,7 @@
 {
   "name": "nodejs-express-tutorial",
   "version": "1.0.0",
-  "description": "A simple Node.js tutorial server with Express.js framework demonstrating basic routing and endpoint creation",
+  "description": "Node.js tutorial server with Express.js framework implementing Hello World endpoint and Good Evening endpoint",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
