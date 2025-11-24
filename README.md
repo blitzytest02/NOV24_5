@@ -21,10 +21,9 @@ npm --version
 
 ## Installation
 
-1. Clone this repository:
+1. Navigate to the project directory:
 ```bash
-git clone <repository-url>
-cd nodejs-express-tutorial
+cd NOV24_5
 ```
 
 2. Install the project dependencies:
@@ -101,7 +100,7 @@ You can test the endpoints using any of these methods:
 ## Project Structure
 
 ```
-nodejs-express-tutorial/
+NOV24_5/
 ├── node_modules/       # Installed dependencies (auto-generated)
 ├── .gitignore         # Git ignore patterns
 ├── package.json       # Project manifest and dependencies
@@ -112,8 +111,8 @@ nodejs-express-tutorial/
 
 ## Technologies Used
 
-- **Node.js** v20.19.5 - JavaScript runtime environment
-- **Express.js** v4.21.2 - Fast, unopinionated web framework for Node.js
+- **Node.js** v20.x - JavaScript runtime environment
+- **Express.js** v4.21.x - Fast, unopinionated web framework for Node.js
 - **npm** - Package manager for JavaScript
 
 ## Configuration
